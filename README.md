@@ -1,2 +1,7 @@
-# DS-Learning-club
-This is a collabrative learning repository for UpGrad batch :)
+# REPO DESCRIPTION
+
+### CREATE A FOLDER IN YOUR NAME AND SHARE YOUR CODES .
+
+    Read others code but please dont edit it.
+
+    This repository is always open for suggestions.
