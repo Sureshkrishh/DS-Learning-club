@@ -1,4 +1,4 @@
-# REPO DESCRIPTION
+# REPO OVERVIEW
 
 ### CREATE A FOLDER IN YOUR NAME AND SHARE YOUR CODES .
 
@@ -6,6 +6,7 @@
     2. Always make "git pull" before a pushing to avoid conflicts.
     3. This repository is always open for suggestions.
     
+## RESOURCES
 ### PYTHON AND GITHUB
  
    1. [Introduction to python](shorturl.at/nBIL7)
